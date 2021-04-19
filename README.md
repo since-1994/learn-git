@@ -1,5 +1,3 @@
-- ls -al
-
 - git init
   현재 디렉토리를 git으로 관리한다는 것을 의미합니다.
 - git status
