@@ -12,8 +12,8 @@
   현재 파일들의 변경 상태를 보여줍니다.
 - git reset --hard
   현재 파일을 직전 버전으로 되돌립니다.
-  - git reset --hard <commit id>
-    commit id를 가진 버전으로 되돌립니다.(master)
+- git reset --hard <commit id>
+  commit id를 가진 버전으로 되돌립니다.(master)
 - git checkout <commit id>
   현재 파일을 commitId 버전으로 되돌립니다. commit id는 git log를 통해 확인합니다.
   - git checkout master
